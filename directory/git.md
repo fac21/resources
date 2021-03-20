@@ -1,5 +1,5 @@
 # Git & Github
 
-| Link | Description | Added by |
-| ---- | ----------- | -------- |
-| someLink.com | An example! | @[me](https://github.com/me)  |
+| **_Topic & Link_** | **_Added By_** |
+| -------- | -------- |
+|[Meaningful Commit Messages](https://www.conventionalcommits.org/en/v1.0.0/)|Sevda
