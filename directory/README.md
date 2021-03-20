@@ -10,7 +10,7 @@ You can always refer to the [Founders and Coders Curriculum](https://learn.found
 ## Table of Contents
 
 
-- [HTTP](./directory/HTTP.md)
+- [HTTP](HTTP.md)
 - [CSS](./directory/CSS.md)
 - [GIT](./directory/CSS.md)
 - [HTML](./directory/HTML.md)
