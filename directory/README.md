@@ -1,6 +1,5 @@
 # RESOURCES
-
-✨ Because Sharing is Caring ✨
+This is intended as a quick reference and showcase of the links shared across the communities during FAC21 cohort. ✨ Because Sharing is Caring ✨
 
 --- 
 
