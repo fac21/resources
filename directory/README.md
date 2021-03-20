@@ -16,8 +16,9 @@ You can always refer to the [Founders and Coders Curriculum](https://learn.found
 - [HTML](./directory/HTML.md)
 - [JavaScript](./directory/JS.md)
 - [Talks](./directory/talks.md)
-- Teamwork(.directory/teamwork.md)
-- Wellbeing(.directory/wellbeing.md)
+- [Teamwork](.directory/teamwork.md)
+- [Wellbeing](.directory/wellbeing.md)
+- [Dans Breaks](.directory/dans-breaks.md)
 
 ---
 
