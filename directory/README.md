@@ -46,4 +46,4 @@ If you contribute something to solve an issue, please close it.
 
 --- 
 
-**_Credit to [Joko](https://github.com/jokosanyang) for inspiring us all._** 🧚
+- **_Credit to [Joko](https://github.com/jokosanyang) for inspiring us all._** 🧚
