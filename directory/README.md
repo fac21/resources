@@ -21,6 +21,7 @@ You can always refer to the [Founders and Coders Curriculum](https://learn.found
 - [Dans Breaks](dans-breaks.md)
 - [Challenges](challenges.md)
 - [Presentations](hackmd.md)
+- [Technology](technology.md)
 
 ---
 
