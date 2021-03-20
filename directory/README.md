@@ -11,26 +11,12 @@ You can always refer to the [Founders and Coders Curriculum](https://learn.found
 ## Table of Contents
 
 
-- [Single page applications](./directory/SPAs.md)
-- [Accessibility](./directory/accessibility.md)
-- [Databases](./directory/databases.md)
-- [Design (incl theory))](./directory/design.md)
-- [Employment tips](./directory/employment.md)
-- [Git/GitHub](./directory/git.md)
-- [HTML](./directory/html.md)
-- [Javascript](./directory/javascript.md)
-- [Job search](./directory/jobs.md)
-- [Meetups](./directory/meetups.md)
-- [Network](./directory/network.md)
-- [Node.js](./directory/node.md)
-- [Styling](./directory/styling.md)
+- [HTTP](./directory/HTTP.md)
+- [CSS](./directory/CSS.md)
+- [GIT](./directory/CSS.md)
+- [HTML](./directory/HTML.md)
+- [JavaScript](./directory/JS.md)
 - [Talks](./directory/talks.md)
-- [Test](./directory/test.md)
-- [Testing](./directory/testing.md)
-- [Tools/Generators](./directory/tools.md)
-- [Wellbeing](./directory/wellbeing.md)
-- [Workshop Links](https://github.com/fac20/resources/blob/main/directory/workshop-links.md)
-- [Tech for Better ](https://github.com/fac20/resources/blob/main/directory/tech-for-better)
 
 ---
 
