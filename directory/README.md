@@ -19,6 +19,7 @@ You can always refer to the [Founders and Coders Curriculum](https://learn.found
 - [Teamwork](.directory/teamwork.md)
 - [Wellbeing](.directory/wellbeing.md)
 - [Dans Breaks](.directory/dans-breaks.md)
+- [Challenges](.directory/challenges.md)
 
 ---
 
