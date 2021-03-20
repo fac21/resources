@@ -11,15 +11,15 @@ You can always refer to the [Founders and Coders Curriculum](https://learn.found
 
 
 - [HTTP](HTTP.md)
-- [CSS](./directory/CSS.md)
-- [GIT](./directory/CSS.md)
-- [HTML](./directory/HTML.md)
-- [JavaScript](./directory/JS.md)
-- [Talks](./directory/talks.md)
-- [Teamwork](.directory/teamwork.md)
-- [Wellbeing](.directory/wellbeing.md)
-- [Dans Breaks](.directory/dans-breaks.md)
-- [Challenges](.directory/challenges.md)
+- [CSS](CSS.md)
+- [GIT](git.md)
+- [HTML](HTML.md)
+- [JavaScript](JS.md)
+- [Talks](talks.md)
+- [Teamwork](teamwork.md)
+- [Wellbeing](wellbeing.md)
+- [Dans Breaks](dans-breaks.md)
+- [Challenges](challenges.md)
 
 ---
 
