@@ -3,3 +3,5 @@
 | **_Topic & Link_** | **_Added By_** |
 | -------- | -------- |
 |[Understanding and Using JavaScript Promises](https://www.youtube.com/watch?v=4EuwgnnXRPI)|Trish
+|[Learn Fetch](https://www.youtube.com/watch?v=cuEtnrL9-H0)|Trish
+|[Fetch API Introduction](https://www.youtube.com/watch?v=Oive66jrwBs)|Trish
