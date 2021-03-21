@@ -1,5 +1,5 @@
 # General JavaScript
 
-| Link | Description | Added by |
-| ---- | ----------- | -------- |
-| someLink.com | An example! | @[me](https://github.com/me)  |
+| **_Topic & Link_** | **_Added By_** |
+| -------- | -------- |
+|[Understanding and Using JavaScript Promises](https://www.youtube.com/watch?v=4EuwgnnXRPI)|Trish
