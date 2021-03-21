@@ -10,18 +10,20 @@ You can always refer to the [Founders and Coders Curriculum](https://learn.found
 ## Table of Contents
 
 
-- [HTTP](HTTP.md)
+- [Accessibility](accessibility.md)
 - [CSS](CSS.md)
+- [CHALLENGES](challenges.md)
+- [DANS](dans-breaks.md)
+- [DESIGN](design.md)
 - [GIT](git.md)
 - [HTML](HTML.md)
-- [JavaScript](JS.md)
-- [Talks](talks.md)
-- [Teamwork](teamwork.md)
-- [Wellbeing](wellbeing.md)
-- [Dans Breaks](dans-breaks.md)
-- [Challenges](challenges.md)
-- [Presentations](hackmd.md)
-- [Technology](technology.md)
+- [HTTP](HTTP.md)
+- [JAVASCRIPT](JS.md)
+- [PRESENTATIONS](hackmd.md)
+- [TALKS](talks.md)
+- [TEAMWORK](teamwork.md)
+- [TECHNOLOGY](technology.md)
+- [WELLBEING](wellbeing.md)
 
 ---
 
