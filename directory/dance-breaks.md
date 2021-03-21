@@ -18,3 +18,4 @@
 |[REMIX!!! Classic Japanese Stretch](https://www.youtube.com/watch?v=l4xFwG_TfHU)|Pineapple
 |[Crab and Prawn ft. Pikachu](https://www.youtube.com/watch?v=dEHtklx3phY)|Pineapple
 |[Kindergarten Dance](https://www.youtube.com/watch?v=26GV89yoSb8)|Pineapple
+|[EBIKANICS / KEROPONS](https://www.youtube.com/watch?v=U9nmGLZUGR4)|Rosie
