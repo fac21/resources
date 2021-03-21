@@ -11,6 +11,7 @@ You can always refer to the [Founders and Coders Curriculum](https://learn.found
 
 
 - [ACCESSIBILITY](accessibility.md)
+- [API](API.md)
 - [CSS](CSS.md)
 - [CHALLENGES](challenges.md)
 - [DANS](dans-breaks.md)
