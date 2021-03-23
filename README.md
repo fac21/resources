@@ -9,13 +9,6 @@ You can always refer to the [Founders and Coders Curriculum](https://learn.found
 
 ## Table of Contents
 
-<details>
-<summary>Table of Contents
-</summary>
-<a href="https://github.com/fac21/resources/blob/main/directory/accessibility.md" target="_blank">ACCESSIBILITY</a>
-</details>
-
-
 - [ACCESSIBILITY](./directory/accessibility.md)
 - [API](./directory/API.md)
 - [CSS](./directory/css.md)
