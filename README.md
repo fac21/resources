@@ -12,7 +12,7 @@ You can always refer to the [Founders and Coders Curriculum](https://learn.found
 
 - [ACCESSIBILITY](./directory/accessibility.md)
 - [API](./directory/API.md)
-- [CSS](./directory/CSS.md)
+- [CSS](./directory/css.md)
 - [CHALLENGES](./directory/challenges.md)
 - [DANS](./directory/dans-breaks.md)
 - [DESIGN](./directory/design.md)
