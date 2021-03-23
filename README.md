@@ -12,7 +12,7 @@ You can always refer to the [Founders and Coders Curriculum](https://learn.found
 <details>
 <summary>Table of Contents
 </summary>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries" target="_blank">Media queries</a> will come in handy.
+<a href="https://github.com/fac21/resources/blob/main/directory/accessibility.md" target="_blank">ACCESSIBILITY</a>
 </details>
 
 
