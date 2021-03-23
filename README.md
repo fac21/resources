@@ -10,7 +10,7 @@ You can always refer to the [Founders and Coders Curriculum](https://learn.found
 ## Table of Contents
 
 
-- [ACCESSIBILITY](accessibility.md)
+- [ACCESSIBILITY](./directory/accessibility.md)
 - [API](API.md)
 - [CSS](CSS.md)
 - [CHALLENGES](challenges.md)
