@@ -9,6 +9,12 @@ You can always refer to the [Founders and Coders Curriculum](https://learn.found
 
 ## Table of Contents
 
+<details>
+<summary>Table of Contents
+</summary>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries" target="_blank">Media queries</a> will come in handy.
+</details>
+
 
 - [ACCESSIBILITY](./directory/accessibility.md)
 - [API](./directory/API.md)
