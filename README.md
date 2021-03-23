@@ -14,7 +14,7 @@ You can always refer to the [Founders and Coders Curriculum](https://learn.found
 - [API](./directory/API.md)
 - [CSS](./directory/css.md)
 - [CHALLENGES](./directory/challenges.md)
-- [DANS](./directory/dans-breaks.md)
+- [DANS](./directory/dance-breaks.md)
 - [DESIGN](./directory/design.md)
 - [GIT](./directory/git.md)
 - [HTML](./directory/HTML.md)
