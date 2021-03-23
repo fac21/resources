@@ -1,25 +1,37 @@
-# Resources
-A collection of resources for any topic that you might need! Started by previous cohorts and continued by you! ✨
+# RESOURCES
+This is intended as a quick reference and showcase of the links shared across the communities during FAC21 cohort. ✨ Because Sharing is Caring ✨
 
-This repo is a place to store all the wonderful resources you stumble across. Look to [FAC20's resources](https://github.com/fac20/resources) if you need some inspiration!
+--- 
 
-Credit to [Joko](https://github.com/jokosanyang) for starting the resources repo.
+You can always refer to the [Founders and Coders Curriculum](https://learn.foundersandcoders.com/) for many more helpful **_resources_** coorelated with the weekly learning topics. 🤍 
 
-![](https://media.giphy.com/media/7E8lI6TkLrvvAcPXso/giphy.gif)
+---
 
-## List of categories
-- [CSS & Styling](./directory/css.md)
-- [GIt & Github](./directory/git.md)
-- [HTML](./directory/html.md)
-- [General JavaScript](./directory/js.md)
-- [Talks](./directory/talks.md)
+## Table of Contents
 
-This repo belongs to you, so don't hesitate to add new categories as you go along and discover new topics. Examples from FAC20's research repo include:
 
-Single page applications, accessibility, databases, employment tips, meetups, network, tools, etc.
-## How to add a resource
+- [ACCESSIBILITY](accessibility.md)
+- [API](API.md)
+- [CSS](CSS.md)
+- [CHALLENGES](challenges.md)
+- [DANS](dans-breaks.md)
+- [DESIGN](design.md)
+- [GIT](git.md)
+- [HTML](HTML.md)
+- [HTTP](HTTP.md)
+- [JAVASCRIPT](JS.md)
+- [PRESENTATIONS](hackmd.md)
+- [TALKS](talks.md)
+- [TEAMWORK](teamwork.md)
+- [TECHNOLOGY](technology.md)
+- [WELLBEING](wellbeing.md)
 
-In order to keep some semblance of order in this library, please add your resource to the correct category, and make sure it includes the following things.
+---
+
+
+## User Manual
+
+In order to keep some semblance of order in this library, please add your resource to the correct category, and make sure it includes the following details.
 
 - link to the specific page
 - short description of why it's cool/life-saving
@@ -31,9 +43,15 @@ In order to keep some semblance of order in this library, please add your resour
 | -------------------------- | --------------------------------------------------------------- | ------------ |
 | http://www.simpleicons.org | Simple, free SVG icons of pretty much any logo you can think of | @[jokosanyang](https://github.com/jokosanyang) |
 
+--- 
+
 ## How to request a resource
 
 If there is a resource you really think your code and life could benefit from, you can also put out a request to the group brain.
 
 Just create a new issue, and follow the template.
 If you contribute something to solve an issue, please close it.
+
+--- 
+
+- **_Credit to [Joko](https://github.com/jokosanyang) for inspiring us all._** 🧚
