@@ -19,7 +19,7 @@ You can always refer to the [Founders and Coders Curriculum](https://learn.found
 - [GIT](./directory/git.md)
 - [HTML](./directory/HTML.md)
 - [HTTP](./directory/HTTP.md)
-- [JAVASCRIPT](./directoryJS.md)
+- [JAVASCRIPT](./directory/JS.md)
 - [PRESENTATIONS](./directory/hackmd.md)
 - [TALKS](./directory/talks.md)
 - [TEAMWORK](./directory/teamwork.md)
