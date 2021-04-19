@@ -6,3 +6,4 @@
 |[Learn Fetch](https://www.youtube.com/watch?v=cuEtnrL9-H0)|Trish
 |[Fetch API Introduction](https://www.youtube.com/watch?v=Oive66jrwBs)|Trish
 |[package-lock.json description](https://docs.npmjs.com/cli/v6/configuring-npm/package-locks) | Oli
+|[HTTP REsponse status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)|
