@@ -8,3 +8,6 @@
 |[package-lock.json description](https://docs.npmjs.com/cli/v6/configuring-npm/package-locks) | Oli
 |[HTTP Response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)| Rihards
 |[Simplified version/example of Express routing](https://replit.com/@oliverjam/express-ish) | Oli
+|[res.end() V res.send()](https://stackoverflow.com/questions/29555290/what-is-the-difference-between-res-end-and-res-send) | Rihards
+|[Intro to automating with node.js (incl. process object and argv)](https://www.youtube.com/watch?v=V-RbmMd4iRA) | Chun
+
