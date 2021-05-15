@@ -13,4 +13,4 @@
 |[Vanilla Node Templating](https://glitch.com/edit/#!/vanilla-node-templating?path=templates.js%3A1%3A0) | Oli
 |[Syntax highlighting for the HTML inside JS strings](https://marketplace.visualstudio.com/items?itemName=Tobermory.es6-string-html) | Oli
 |[RunJS - a JavaScript and TypeScript playground / scratchpad for your desktop](https://runjs.app/docs) | Rihards
-
+|[React Course (Scrimba)](https://scrimba.com/learn/learnreact#sign-in) | Michael
