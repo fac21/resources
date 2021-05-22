@@ -7,3 +7,4 @@
 |[How to Animate Stars in the Background](https://github.com/Tiarama/Twinkle-Twinkle)|Craig
 |[SVG Icons](https://heroicons.com) | Maryam
 |[Open Source Illustrations](https://blush.design) | Chun
+|[Shaya's UX/Design Resources](https://www.notion.so/1c13c4deef004d73b29eff0ceac912a2?v=2b9d7a9c6bdf4345aeb0b13dfc6705a6) | Michael
