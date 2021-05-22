@@ -6,4 +6,4 @@
 |[Using DevTools To Understand Modern CSS Layouts](https://www.youtube.com/watch?v=ZRtzk0371tk)|Maryam|
 |[What the FlexBox (Free WesBos course in 20 videos)](https://flexbox.io)|Neville|
 |[CSS Grid (Free WesBos course in 25 videos)](https://cssgrid.io)|Neville|
-|[Grid Garden](http://cssgridgarden.com/) | Michael
+|[CSS Grid Garden (CSS 'game' for practicing Grid analagous to 'Flexbox Froggy'](http://cssgridgarden.com/) | Michael
