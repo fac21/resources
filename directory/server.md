@@ -9,3 +9,4 @@
 |[How to fix “Error: The server does not support SSL connections” when trying to access database in localhost?](https://stackoverflow.com/questions/54302088/how-to-fix-error-the-server-does-not-support-ssl-connections-when-trying-to-a)|Chisha
 |[Why are hash functions one way? If I know the algorithm, why can't I calculate the input from it?](https://security.stackexchange.com/questions/11717/why-are-hash-functions-one-way-if-i-know-the-algorithm-why-cant-i-calculate-t)|Amy
 |[res.clearCookie() doesn't work ](https://github.com/expressjs/express/issues/691)|
+|[How to Deploy Next.js Sites to Netlify](https://github.com/fac21/resources/edit/main/directory/API.md)| Oli
